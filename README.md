@@ -5,7 +5,7 @@ This is my first Vue.js attempt. This is an simple todo task application.
 ```
 npm install
 ```
-## Run Server for Data
+### Run Server for Data
 ```
 npm run backend
 ```
