@@ -1,4 +1,5 @@
 # vue-app
+This is my first Vue.js attempt. This is an simple todo task application.
 
 ## Project setup
 ```
